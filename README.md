@@ -11,6 +11,10 @@ O objetivo do jogo é desviar o gatinho azul que está em queda entre as nuvens 
 o jogo deve ser jogado com o celular na vertical e para fazer os desvios entre as nuvens, basta dar um clique na tela e o gatinho irá para
 a direção direita do celular e logo entrará em queda novamente.
 
+## 📱 Game
+
+![](https://cdn.discordapp.com/attachments/576875163686010911/662068608469303346/ezgif.com-optimize.gif)
+
 ## 🔥 Tecnologias
 
 - Java
